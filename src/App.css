@@ -1,3 +1,13 @@
 .welcome {
   text-align: center;
+  color: rgb(77, 77, 238);
+}
+
+.form {
+  width: 450px;
+  margin: auto;
+}
+.send-button {
+  text-align: center;
+  padding-top: 20px;
 }
